@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @hyutto
+- 👋 Hi, I’m @ryoukai
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html5
+- 🌱 I’m currently learning html/css/js
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me osnndkwidshyutto@gmail.com
-- 😄 Pronouns: him
+- 😄 Pronouns: it
 - ⚡ Fun fact: ...
 
 <!---

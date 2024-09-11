@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryoukai
+- 👋 Hi, I’m @hyutto
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html/css/js
 - 💞️ I’m looking to collaborate on web dev projects
